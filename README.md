@@ -1,4 +1,4 @@
-# phaser-starter
+# Set Phaser to Sun
 A simple PhaserJS starter project using Rollup
 
 ## Requirements
